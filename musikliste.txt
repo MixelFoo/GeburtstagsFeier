@@ -1,5 +1,3 @@
-- schlechtes Lied1
-- schlechtes Lied2
-- Schlechtes Lied3
-
-
+- gutes Lied1
+- gutes Lied2
+- gutes Lied3
